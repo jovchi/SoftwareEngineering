@@ -19,6 +19,9 @@ else
     $message = "Invalid username or password. Please try again."; 
 }
 
+    $success = true; //Login successful.
+    $message = "login successful"; //Load string for user to recieve.
+
 //Load data into array.
 $arr = array(
     "success" => $success,
