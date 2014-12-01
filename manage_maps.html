@@ -11,9 +11,25 @@
 		</script>
 
 		<script type="text/javascript">
-  		 var index = 1;
-		 var url="";
-		</script>
+	      function makeList(){
+	         
+	        var wrap= document.getElementByClass('wrap');
+	      	wrap.style.width=100%;
+	      	wrap.style.height=100%;
+
+	      	var container= document.getElementByClass('container');
+	      	container.style.width= "40em";
+	      }
+
+	      function makeGrid(){
+	      	var wrap= document.getElementByClass('wrap');
+	      	wrap.style.width=33.33%;
+	      	wrap.style.height=33.33%;
+
+	      	var container= document.getElementByClass('container');
+	      	container.style.width= '80em';
+	      }
+  		</script>
 
 		<style type="text/css">
 
@@ -25,11 +41,13 @@
 		  font-size: 100%;
 		  font-family: "Droid Serif", serif;
 		  color:#101010 ;
-		  background-color: #FFFFFF ;
+		  background-color: #202020  ;
 		  text-align: center;
 		}
 
 		a {
+
+		  opacity: 0.6;
 		  padding: .8em 1em;
 
 		  text-decoration: none;
@@ -37,19 +55,21 @@
 		  margin-left: 25%;
 		  margin-right: 25%;
 		  font-size: .8125em;
-		  background: #383838;
+		  background: #202020;
 		  border-radius: 0.25em;
 		}
 
+		a:hover{
+			opacity: 1;
+		}
+
 		img {
-		  top: 0;
-		  bottom: 0;
-		  width: 100px;
-		  min-height:100px;
+		  display: block;
 		}
 
 		header{
 			text-align: left;
+			color: #D8D8D8;
 		}
 
 		h1, h2 {
@@ -57,23 +77,60 @@
 		  font-weight: bold;
 		}
 
-		.wrap{
-			display: block;
-			margin-bottom: 20px;
-			position: relative;
-		    float: left;
-		    width: 33.33%;
-		    height: 33.33%;
+		.clear{
+			clear: both;
 		}
 
-		.contain{
-			background:	#E0E0E0 ; 
-			border: 5px solid #a1a1a1;
-			border-radius: 0.25em;
-			padding: 10px;
-			margin: 0 auto;
-			width: 80em;
+		.icons{
+			float: right;
+			margin-right: 80px;
+			margin-bottom: 20px;
+			clear: both;
+		}
+
+
+		.icons .icon{
+			opacity: .7;
+			background: white;
+			padding: 5px;
+			border:5px  transparent;
+			border-radius: 0.5em;
+			display: inline-block;
+			float: left;
+			margin-left: 50px;
+		}
+
+		.icons .icon:hover{
+			opacity: 1;
+		}
+
+		.icon img{
+			width: 40px;
+			height: 40px;
+		}
+		.wrap{
+			
+			display: block;
 			text-align: left;
+			margin-bottom: 20px;
+			margin-left: 20%;
+			margin-right: 30%;
+			position: relative;
+		    float: left;
+		    width: 100%;
+		    height: 100%;
+		    overflow: auto;
+		}
+
+		.container{
+			background:rgba(255,255,255,0.5);
+			background:	#7f7f7f ; 
+			border: 5px transparent ;
+			border-radius: 0.25em;
+			padding: 20px;
+			margin: 0 auto;
+			width: 40em;
+			text-align: center;
 			overflow:hidden;
 			height: 100%;
 		}
@@ -82,7 +139,7 @@
 			border-radius: 0.25em;
 			width: 400px;
 			height: 100px;
-			border: 2px solid #a1a1a1;
+			border: 5px solid #202020;
 			border-radius: 0.25em;
 		}
 		.cd-timeline-block:after {
@@ -123,17 +180,19 @@
 		  line-height: 1.6;
 		}
 		.cd-timeline-content .cd-edit {
-		  color: white;
+		  color: #D8D8D8 ;
 		}
-		
-
+	
 		.cd-timeline-img {
 		  float: left;
 		  width: 100px; 
 		  min-height: 100px;
 		}
 		.cd-timeline-img img {
-		  display: block;
+		  top: 0;
+		  bottom: 0;
+		  width: 100px;
+		  min-height:100px;
 		}
 		</style>
 
@@ -141,11 +200,22 @@
 	<body>
 
 	<header >
-		<h1>Select A Map to Manage</h1>
+		<h2>Select A Map to Manage</h2>
 	</header>
-		<br style="clear:both"></br>
-			<!-- Start Advanced Gallery Html Containers -->
-			<div class="contain">
+		<br class="clear"></br>
+
+			<div class='icons'>
+				<div class='icon' id='iconl' >
+					<img onclick= "makeList" src="./icon/list_bullets.png"  alt="">
+				</div>
+				<div class='icon' id='icong'>
+					<img onclick= "makeGrid" src="./icon/3x3_grid.png" alt="">
+				</div>
+			</div>
+
+			<br class="clear"></br>
+			<!-- Start Advanced Gallery Html Container -->
+			<div class="container">
 				<div class="wrap">
 					<div class="cd-timeline-block">
 						<div class="cd-timeline-img">
@@ -492,6 +562,8 @@
 			</div>
 	</body>
 </html>
+
+
 
 
 

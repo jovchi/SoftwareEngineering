@@ -1,14 +1,14 @@
 <?php
 
 include "./db.php"; //Connect to database.
-$map_id = $_REQUEST['map_id'];
+$id = $_REQUEST['id'];
 $result = mysqli_query($con,"SELECT *
                 FROM maps
-                WHERE 
-        maps.id = '$map_id' ") or exit("QUERY FAILED!");
+                WHERE id='$id'
+                ") or exit("QUERY FAILED!");
 
-list($map_id, $content, $name, $type, $size) = mysql_fetch_array($result);
-header("Content-type: image/png");
+list($id, $content, $name, $type, $size) = mysql_fetch_array($result);
+header("Content-type: $type");
 header("Content-Disposition: attachment; filename= $name");
 
 function resize($contents, $desired_width, $desired_height) {
