@@ -1,0 +1,501 @@
+<!doctype html>
+<html lang="en" class="no-js">
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Manage Maps | Edit Maps</title>
+		<script type="text/javascript" src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+		<script type="text/javascript" src="js/jquery.opacityrollover.js"></script>
+		<!-- We only want the thunbnails to display when javascript is disabled -->
+		<script type="text/javascript">
+			document.write('<style>.noscript { display: none; }</style>');
+		</script>
+
+		<script type="text/javascript">
+  		 var index = 1;
+		 var url="";
+		</script>
+
+		<style type="text/css">
+
+		
+		div {
+			overflow: hidden;
+		}
+		body {
+		  font-size: 100%;
+		  font-family: "Droid Serif", serif;
+		  color:#101010 ;
+		  background-color: #FFFFFF ;
+		  text-align: center;
+		}
+
+		a {
+		  padding: .8em 1em;
+
+		  text-decoration: none;
+		  font-family: "Open Sans", sans-serif;
+		  margin-left: 25%;
+		  margin-right: 25%;
+		  font-size: .8125em;
+		  background: #383838;
+		  border-radius: 0.25em;
+		}
+
+		img {
+		  top: 0;
+		  bottom: 0;
+		  width: 100px;
+		  min-height:100px;
+		}
+
+		header{
+			text-align: left;
+		}
+
+		h1, h2 {
+		  font-family: "Open Sans", sans-serif;
+		  font-weight: bold;
+		}
+
+		.wrap{
+			display: block;
+			margin-bottom: 20px;
+			position: relative;
+		    float: left;
+		    width: 33.33%;
+		    height: 33.33%;
+		}
+
+		.contain{
+			background:	#E0E0E0 ; 
+			border: 5px solid #a1a1a1;
+			border-radius: 0.25em;
+			padding: 10px;
+			margin: 0 auto;
+			width: 80em;
+			text-align: left;
+			overflow:hidden;
+			height: 100%;
+		}
+		.cd-timeline-block {
+			margin: 2em 0;
+			border-radius: 0.25em;
+			width: 400px;
+			height: 100px;
+			border: 2px solid #a1a1a1;
+			border-radius: 0.25em;
+		}
+		.cd-timeline-block:after {
+		  content: "";
+		  display: table;
+		  clear: both;
+		}
+		.cd-timeline-block:first-child {
+  			margin-top: 0;
+  		}
+  		.cd-timeline-block:last-child {
+		  margin-bottom: 0;
+		}
+		
+		.cd-timeline-content {
+		  float: left;
+		  display: block;
+		  width: 300px;
+		  height: 100px;
+		  background: white;
+		}
+		.cd-timeline-content h2 {
+		  margin-left: 10px;
+		  margin-bottom: 2px;
+		  margin-top: 10px;
+		  color: #303e49;
+		}
+		.cd-timeline-content p, .cd-timeline-content .cd-edit, .cd-timeline-content {
+		  font-size: 0.8125rem;
+		}
+		.cd-timeline-content .cd-edit, .cd-timeline-content {
+		  display: inline-block;
+		}
+		.cd-timeline-content p {
+		  margin-left: 10px;
+		  margin-top: 0;
+		  margin-bottom: 0;
+		  line-height: 1.6;
+		}
+		.cd-timeline-content .cd-edit {
+		  color: white;
+		}
+		
+
+		.cd-timeline-img {
+		  float: left;
+		  width: 100px; 
+		  min-height: 100px;
+		}
+		.cd-timeline-img img {
+		  display: block;
+		}
+		</style>
+
+	</head>
+	<body>
+
+	<header >
+		<h1>Select A Map to Manage</h1>
+	</header>
+		<br style="clear:both"></br>
+			<!-- Start Advanced Gallery Html Containers -->
+			<div class="contain">
+				<div class="wrap">
+					<div class="cd-timeline-block">
+						<div class="cd-timeline-img">
+							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
+						</div> <!-- cd-timeline-img -->
+				 
+						<div class="cd-timeline-content">
+							<h2>Title </h2>
+							<p> Last Update 9/10/14 </p>
+							<a href="#0" class="cd-edit">Edit This Map</a>
+						</div> <!-- cd-timeline-content -->
+					</div> <!-- cd-timeline-block -->
+				</div>
+
+				<div class="wrap">
+					<div class="cd-timeline-block">
+						<div class="cd-timeline-img">
+							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
+						</div> <!-- cd-timeline-img -->
+				 
+						<div class="cd-timeline-content">
+							<h2>Title </h2>
+							<p> Last Update 9/10/14 </p>
+							<a href="#0" class="cd-edit">Edit This Map</a>
+						</div> <!-- cd-timeline-content -->
+					</div> <!-- cd-timeline-block -->
+				</div>
+				
+
+				<div class="wrap">
+					<div class="cd-timeline-block">
+						<div class="cd-timeline-img">
+							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
+						</div> <!-- cd-timeline-img -->
+				 
+						<div class="cd-timeline-content">
+							<h2>Title </h2>
+							<p> Last Update 9/10/14 </p>
+							<a href="#0" class="cd-edit">Edit This Map</a>
+						</div> <!-- cd-timeline-content -->
+					</div> <!-- cd-timeline-block -->
+				</div>	
+				
+
+				<div class="wrap">
+					<div class="cd-timeline-block">
+						<div class="cd-timeline-img">
+							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
+						</div> <!-- cd-timeline-img -->
+				 
+						<div class="cd-timeline-content">
+							<h2>Title </h2>
+							<p> Last Update 9/10/14 </p>
+							<a href="#0" class="cd-edit">Edit This Map</a>
+						</div> <!-- cd-timeline-content -->
+					</div> <!-- cd-timeline-block -->
+				</div>
+
+				<div class="wrap">
+					<div class="cd-timeline-block">
+						<div class="cd-timeline-img">
+							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
+						</div> <!-- cd-timeline-img -->
+				 
+						<div class="cd-timeline-content">
+							<h2>Title </h2>
+							<p> Last Update 9/10/14 </p>
+							<a href="#0" class="cd-edit">Edit This Map</a>
+						</div> <!-- cd-timeline-content -->
+					</div> <!-- cd-timeline-block -->
+				</div>
+
+				<div class="wrap">
+					<div class="cd-timeline-block">
+						<div class="cd-timeline-img">
+							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
+						</div> <!-- cd-timeline-img -->
+				 
+						<div class="cd-timeline-content">
+							<h2>Title </h2>
+							<p> Last Update 9/10/14 </p>
+							<a href="#0" class="cd-edit">Edit This Map</a>
+						</div> <!-- cd-timeline-content -->
+					</div> <!-- cd-timeline-block -->
+				</div>
+				
+				<div class="wrap">
+					<div class="cd-timeline-block">
+						<div class="cd-timeline-img">
+							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
+						</div> <!-- cd-timeline-img -->
+				 
+						<div class="cd-timeline-content">
+							<h2>Title </h2>
+							<p> Last Update 9/10/14 </p>
+							<a href="#0" class="cd-edit">Edit This Map</a>
+						</div> <!-- cd-timeline-content -->
+					</div> <!-- cd-timeline-block -->
+				</div>
+
+				<div class="wrap">
+					<div class="cd-timeline-block">
+						<div class="cd-timeline-img">
+							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
+						</div> <!-- cd-timeline-img -->
+				 
+						<div class="cd-timeline-content">
+							<h2>Title </h2>
+							<p> Last Update 9/10/14 </p>
+							<a href="#0" class="cd-edit">Edit This Map</a>
+						</div> <!-- cd-timeline-content -->
+					</div> <!-- cd-timeline-block -->
+				</div>
+				
+
+				<div class="wrap">
+					<div class="cd-timeline-block">
+						<div class="cd-timeline-img">
+							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
+						</div> <!-- cd-timeline-img -->
+				 
+						<div class="cd-timeline-content">
+							<h2>Title </h2>
+							<p> Last Update 9/10/14 </p>
+							<a href="#0" class="cd-edit">Edit This Map</a>
+						</div> <!-- cd-timeline-content -->
+					</div> <!-- cd-timeline-block -->
+				</div>	
+				
+
+				<div class="wrap">
+					<div class="cd-timeline-block">
+						<div class="cd-timeline-img">
+							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
+						</div> <!-- cd-timeline-img -->
+				 
+						<div class="cd-timeline-content">
+							<h2>Title </h2>
+							<p> Last Update 9/10/14 </p>
+							<a href="#0" class="cd-edit">Edit This Map</a>
+						</div> <!-- cd-timeline-content -->
+					</div> <!-- cd-timeline-block -->
+				</div>
+
+				<div class="wrap">
+					<div class="cd-timeline-block">
+						<div class="cd-timeline-img">
+							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
+						</div> <!-- cd-timeline-img -->
+				 
+						<div class="cd-timeline-content">
+							<h2>Title </h2>
+							<p> Last Update 9/10/14 </p>
+							<a href="#0" class="cd-edit">Edit This Map</a>
+						</div> <!-- cd-timeline-content -->
+					</div> <!-- cd-timeline-block -->
+				</div>
+
+				<div class="wrap">
+					<div class="cd-timeline-block">
+						<div class="cd-timeline-img">
+							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
+						</div> <!-- cd-timeline-img -->
+				 
+						<div class="cd-timeline-content">
+							<h2>Title </h2>
+							<p> Last Update 9/10/14 </p>
+							<a href="#0" class="cd-edit">Edit This Map</a>
+						</div> <!-- cd-timeline-content -->
+					</div> <!-- cd-timeline-block -->
+				</div>	
+
+								<div class="wrap">
+					<div class="cd-timeline-block">
+						<div class="cd-timeline-img">
+							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
+						</div> <!-- cd-timeline-img -->
+				 
+						<div class="cd-timeline-content">
+							<h2>Title </h2>
+							<p> Last Update 9/10/14 </p>
+							<a href="#0" class="cd-edit">Edit This Map</a>
+						</div> <!-- cd-timeline-content -->
+					</div> <!-- cd-timeline-block -->
+				</div>
+				
+
+				<div class="wrap">
+					<div class="cd-timeline-block">
+						<div class="cd-timeline-img">
+							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
+						</div> <!-- cd-timeline-img -->
+				 
+						<div class="cd-timeline-content">
+							<h2>Title </h2>
+							<p> Last Update 9/10/14 </p>
+							<a href="#0" class="cd-edit">Edit This Map</a>
+						</div> <!-- cd-timeline-content -->
+					</div> <!-- cd-timeline-block -->
+				</div>	
+				
+
+				<div class="wrap">
+					<div class="cd-timeline-block">
+						<div class="cd-timeline-img">
+							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
+						</div> <!-- cd-timeline-img -->
+				 
+						<div class="cd-timeline-content">
+							<h2>Title </h2>
+							<p> Last Update 9/10/14 </p>
+							<a href="#0" class="cd-edit">Edit This Map</a>
+						</div> <!-- cd-timeline-content -->
+					</div> <!-- cd-timeline-block -->
+				</div>
+
+				<div class="wrap">
+					<div class="cd-timeline-block">
+						<div class="cd-timeline-img">
+							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
+						</div> <!-- cd-timeline-img -->
+				 
+						<div class="cd-timeline-content">
+							<h2>Title </h2>
+							<p> Last Update 9/10/14 </p>
+							<a href="#0" class="cd-edit">Edit This Map</a>
+						</div> <!-- cd-timeline-content -->
+					</div> <!-- cd-timeline-block -->
+				</div>
+
+				<div class="wrap">
+					<div class="cd-timeline-block">
+						<div class="cd-timeline-img">
+							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
+						</div> <!-- cd-timeline-img -->
+				 
+						<div class="cd-timeline-content">
+							<h2>Title </h2>
+							<p> Last Update 9/10/14 </p>
+							<a href="#0" class="cd-edit">Edit This Map</a>
+						</div> <!-- cd-timeline-content -->
+					</div> <!-- cd-timeline-block -->
+				</div>	
+
+				<div class="wrap">
+					<div class="cd-timeline-block">
+						<div class="cd-timeline-img">
+							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
+						</div> <!-- cd-timeline-img -->
+				 
+						<div class="cd-timeline-content">
+							<h2>Title </h2>
+							<p> Last Update 9/10/14 </p>
+							<a href="#0" class="cd-edit">Edit This Map</a>
+						</div> <!-- cd-timeline-content -->
+					</div> <!-- cd-timeline-block -->
+				</div>
+
+				<div class="wrap">
+					<div class="cd-timeline-block">
+						<div class="cd-timeline-img">
+							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
+						</div> <!-- cd-timeline-img -->
+				 
+						<div class="cd-timeline-content">
+							<h2>Title </h2>
+							<p> Last Update 9/10/14 </p>
+							<a href="#0" class="cd-edit">Edit This Map</a>
+						</div> <!-- cd-timeline-content -->
+					</div> <!-- cd-timeline-block -->
+				</div>	
+
+								<div class="wrap">
+					<div class="cd-timeline-block">
+						<div class="cd-timeline-img">
+							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
+						</div> <!-- cd-timeline-img -->
+				 
+						<div class="cd-timeline-content">
+							<h2>Title </h2>
+							<p> Last Update 9/10/14 </p>
+							<a href="#0" class="cd-edit">Edit This Map</a>
+						</div> <!-- cd-timeline-content -->
+					</div> <!-- cd-timeline-block -->
+				</div>
+				
+
+				<div class="wrap">
+					<div class="cd-timeline-block">
+						<div class="cd-timeline-img">
+							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
+						</div> <!-- cd-timeline-img -->
+				 
+						<div class="cd-timeline-content">
+							<h2>Title </h2>
+							<p> Last Update 9/10/14 </p>
+							<a href="#0" class="cd-edit">Edit This Map</a>
+						</div> <!-- cd-timeline-content -->
+					</div> <!-- cd-timeline-block -->
+				</div>	
+				
+
+				<div class="wrap">
+					<div class="cd-timeline-block">
+						<div class="cd-timeline-img">
+							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
+						</div> <!-- cd-timeline-img -->
+				 
+						<div class="cd-timeline-content">
+							<h2>Title </h2>
+							<p> Last Update 9/10/14 </p>
+							<a href="#0" class="cd-edit">Edit This Map</a>
+						</div> <!-- cd-timeline-content -->
+					</div> <!-- cd-timeline-block -->
+				</div>
+
+				<div class="wrap">
+					<div class="cd-timeline-block">
+						<div class="cd-timeline-img">
+							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
+						</div> <!-- cd-timeline-img -->
+				 
+						<div class="cd-timeline-content">
+							<h2>Title </h2>
+							<p> Last Update 9/10/14 </p>
+							<a href="#0" class="cd-edit">Edit This Map</a>
+						</div> <!-- cd-timeline-content -->
+					</div> <!-- cd-timeline-block -->
+				</div>
+
+				<div class="wrap">
+					<div class="cd-timeline-block">
+						<div class="cd-timeline-img">
+							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
+						</div> <!-- cd-timeline-img -->
+				 
+						<div class="cd-timeline-content">
+							<h2>Title </h2>
+							<p> Last Update 9/10/14 </p>
+							<a href="#0" class="cd-edit">Edit This Map</a>
+						</div> <!-- cd-timeline-content -->
+					</div> <!-- cd-timeline-block -->
+				</div>		
+			</div>
+	</body>
+</html>
+
+
+
+
+
+
+
