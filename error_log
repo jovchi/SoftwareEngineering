@@ -1,0 +1,357 @@
+[15-Nov-2014 23:31:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 8
+[15-Nov-2014 23:31:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 10
+[15-Nov-2014 23:32:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 8
+[15-Nov-2014 23:32:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 10
+[15-Nov-2014 23:32:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 8
+[15-Nov-2014 23:32:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 10
+[15-Nov-2014 23:32:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 8
+[15-Nov-2014 23:32:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 10
+[15-Nov-2014 23:33:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 8
+[15-Nov-2014 23:33:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 10
+[15-Nov-2014 23:33:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 23
+[15-Nov-2014 23:33:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 8
+[15-Nov-2014 23:33:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 10
+[15-Nov-2014 23:33:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 23
+[15-Nov-2014 23:33:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 8
+[15-Nov-2014 23:33:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 10
+[15-Nov-2014 23:33:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 23
+[15-Nov-2014 23:33:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 8
+[15-Nov-2014 23:33:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 10
+[15-Nov-2014 23:33:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 23
+[15-Nov-2014 23:33:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 8
+[15-Nov-2014 23:33:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 10
+[15-Nov-2014 23:33:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 23
+[15-Nov-2014 23:33:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 8
+[15-Nov-2014 23:33:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 10
+[15-Nov-2014 23:33:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 23
+[15-Nov-2014 23:33:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 8
+[15-Nov-2014 23:33:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 10
+[15-Nov-2014 23:33:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 23
+[15-Nov-2014 23:34:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 8
+[15-Nov-2014 23:34:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 10
+[15-Nov-2014 23:34:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 8
+[15-Nov-2014 23:34:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 10
+[15-Nov-2014 23:47:44 UTC] PHP Warning:  include_once(./dp.php): failed to open stream: No such file or directory in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 2
+[15-Nov-2014 23:47:44 UTC] PHP Warning:  include_once(): Failed opening './dp.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 2
+[15-Nov-2014 23:47:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 11
+[15-Nov-2014 23:48:58 UTC] PHP Warning:  include_once(dp.php): failed to open stream: No such file or directory in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 2
+[15-Nov-2014 23:48:58 UTC] PHP Warning:  include_once(): Failed opening 'dp.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 2
+[15-Nov-2014 23:48:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 11
+[15-Nov-2014 23:49:40 UTC] PHP Warning:  include(dp.php): failed to open stream: No such file or directory in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 2
+[15-Nov-2014 23:49:40 UTC] PHP Warning:  include(): Failed opening 'dp.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 2
+[15-Nov-2014 23:49:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 11
+[15-Nov-2014 23:51:06 UTC] PHP Warning:  include(./dp.php): failed to open stream: No such file or directory in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 2
+[15-Nov-2014 23:51:06 UTC] PHP Warning:  include(): Failed opening './dp.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 2
+[15-Nov-2014 23:51:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 11
+[15-Nov-2014 23:51:26 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 2
+[15-Nov-2014 23:51:26 UTC] PHP Warning:  include(http://wasiwrong.com/SoftwareEngineering/db.php): failed to open stream: no suitable wrapper could be found in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 2
+[15-Nov-2014 23:51:26 UTC] PHP Warning:  include(): Failed opening 'http://wasiwrong.com/SoftwareEngineering/db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 2
+[15-Nov-2014 23:51:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 11
+[15-Nov-2014 23:52:51 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 2
+[15-Nov-2014 23:52:51 UTC] PHP Warning:  include(http://wasiwrong.com/SoftwareEngineering/db.php): failed to open stream: no suitable wrapper could be found in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 2
+[15-Nov-2014 23:52:51 UTC] PHP Warning:  include(): Failed opening 'http://wasiwrong.com/SoftwareEngineering/db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 2
+[15-Nov-2014 23:52:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 11
+[15-Nov-2014 23:53:08 UTC] PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 2
+[15-Nov-2014 23:53:08 UTC] PHP Warning:  require(http://wasiwrong.com/SoftwareEngineering/db.php): failed to open stream: no suitable wrapper could be found in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 2
+[15-Nov-2014 23:53:08 UTC] PHP Fatal error:  require(): Failed opening required 'http://wasiwrong.com/SoftwareEngineering/db.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 2
+[15-Nov-2014 23:59:03 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/wasiwron/public_html/SoftwareEngineering/uploadMaps.php on line 14
+[15-Nov-2014 23:59:23 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/wasiwron/public_html/SoftwareEngineering/uploadMaps.php on line 14
+[16-Nov-2014 00:00:50 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/wasiwron/public_html/SoftwareEngineering/uploadMaps.php on line 14
+[16-Nov-2014 00:59:38 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wasiwron/public_html/SoftwareEngineering/upload.php on line 10
+[16-Nov-2014 01:00:32 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wasiwron/public_html/SoftwareEngineering/upload.php on line 10
+[16-Nov-2014 01:14:45 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wasiwron/public_html/SoftwareEngineering/upload.php on line 10
+[16-Nov-2014 01:16:40 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wasiwron/public_html/SoftwareEngineering/upload.php on line 12
+[16-Nov-2014 01:41:55 UTC] PHP Warning:  getimagesize(): Filename cannot be empty in /home/wasiwron/public_html/SoftwareEngineering/upload.php on line 12
+[19-Nov-2014 22:36:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/upload.php:5) in /home/wasiwron/public_html/SoftwareEngineering/upload.php on line 52
+[19-Nov-2014 22:37:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/upload.php:5) in /home/wasiwron/public_html/SoftwareEngineering/upload.php on line 52
+[19-Nov-2014 22:41:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/upload.php:5) in /home/wasiwron/public_html/SoftwareEngineering/upload.php on line 52
+[19-Nov-2014 22:41:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/upload.php:5) in /home/wasiwron/public_html/SoftwareEngineering/upload.php on line 52
+[19-Nov-2014 22:42:58 UTC] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/wasiwron/public_html/SoftwareEngineering/upload.php on line 52
+[19-Nov-2014 22:44:52 UTC] PHP Fatal error:  Call to undefined function replace() in /home/wasiwron/public_html/SoftwareEngineering/upload.php on line 52
+[19-Nov-2014 22:46:12 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/wasiwron/public_html/SoftwareEngineering/upload.php on line 52
+[24-Nov-2014 01:17:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wasiwron/public_html/SoftwareEngineering/saveMapToDatabase.php on line 5
+[24-Nov-2014 01:20:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wasiwron/public_html/SoftwareEngineering/saveMapToDatabase.php on line 8
+[24-Nov-2014 01:20:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wasiwron/public_html/SoftwareEngineering/saveMapToDatabase.php on line 8
+[24-Nov-2014 01:20:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wasiwron/public_html/SoftwareEngineering/saveMapToDatabase.php on line 8
+[24-Nov-2014 01:20:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wasiwron/public_html/SoftwareEngineering/saveMapToDatabase.php on line 8
+[24-Nov-2014 01:20:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wasiwron/public_html/SoftwareEngineering/saveMapToDatabase.php on line 8
+[24-Nov-2014 01:20:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wasiwron/public_html/SoftwareEngineering/saveMapToDatabase.php on line 8
+[24-Nov-2014 02:40:38 UTC] PHP Parse error:  syntax error, unexpected 'getId' (T_STRING), expecting variable (T_VARIABLE) in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 18
+[24-Nov-2014 02:41:07 UTC] PHP Parse error:  syntax error, unexpected 'getId' (T_STRING), expecting variable (T_VARIABLE) in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 18
+[24-Nov-2014 02:41:08 UTC] PHP Parse error:  syntax error, unexpected 'getId' (T_STRING), expecting variable (T_VARIABLE) in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 18
+[24-Nov-2014 02:42:44 UTC] PHP Parse error:  syntax error, unexpected 'getId' (T_STRING), expecting variable (T_VARIABLE) in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 18
+[24-Nov-2014 02:42:45 UTC] PHP Parse error:  syntax error, unexpected 'getId' (T_STRING), expecting variable (T_VARIABLE) in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 18
+[24-Nov-2014 02:43:11 UTC] PHP Parse error:  syntax error, unexpected 'getId' (T_STRING), expecting variable (T_VARIABLE) in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 18
+[24-Nov-2014 02:43:12 UTC] PHP Parse error:  syntax error, unexpected 'getId' (T_STRING), expecting variable (T_VARIABLE) in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 18
+[24-Nov-2014 02:43:55 UTC] PHP Parse error:  syntax error, unexpected 'getId' (T_STRING), expecting variable (T_VARIABLE) in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 18
+[24-Nov-2014 02:44:39 UTC] PHP Fatal error:  Cannot access empty property in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 15
+[24-Nov-2014 02:44:51 UTC] PHP Fatal error:  Cannot access empty property in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 15
+[24-Nov-2014 02:44:52 UTC] PHP Fatal error:  Cannot access empty property in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 15
+[24-Nov-2014 02:48:16 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 26
+[24-Nov-2014 02:48:16 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 26
+[24-Nov-2014 02:48:16 UTC] PHP Fatal error:  Call to a member function __get() on a non-object in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 37
+[24-Nov-2014 02:48:33 UTC] PHP Fatal error:  Call to a member function __get() on a non-object in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 37
+[24-Nov-2014 02:53:11 UTC] PHP Fatal error:  Call to undefined method Point::_get() in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 62
+[24-Nov-2014 03:04:19 UTC] PHP Fatal error:  Call to undefined function size() in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 79
+[24-Nov-2014 03:07:07 UTC] PHP Fatal error:  Function name must be a string in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 90
+[24-Nov-2014 03:22:11 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 38
+[24-Nov-2014 03:22:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 35
+[24-Nov-2014 03:22:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 35
+[24-Nov-2014 03:22:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wasiwron/public_html/SoftwareEngineering/editMap.php on line 35
+[24-Nov-2014 20:45:37 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home/wasiwron/public_html/SoftwareEngineering/viewMap.php on line 29
+[24-Nov-2014 20:48:20 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home/wasiwron/public_html/SoftwareEngineering/viewMap.php on line 29
+[24-Nov-2014 20:48:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/viewMap.php on line 10
+[24-Nov-2014 20:48:38 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/viewMap.php on line 10
+[25-Nov-2014 18:27:04 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/wasiwron/public_html/SoftwareEngineering/upload.php on line 52
+[25-Nov-2014 18:29:02 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/wasiwron/public_html/SoftwareEngineering/upload.php on line 52
+[25-Nov-2014 18:29:23 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/wasiwron/public_html/SoftwareEngineering/upload.php on line 52
+[25-Nov-2014 18:31:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/upload.php:5) in /home/wasiwron/public_html/SoftwareEngineering/upload.php on line 52
+[28-Nov-2014 20:22:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 8
+[28-Nov-2014 20:22:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 10
+[28-Nov-2014 20:22:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 8
+[28-Nov-2014 20:22:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 10
+[29-Nov-2014 15:02:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/upload.php:5) in /home/wasiwron/public_html/SoftwareEngineering/upload.php on line 52
+[29-Nov-2014 15:07:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/upload.php:5) in /home/wasiwron/public_html/SoftwareEngineering/upload.php on line 52
+[29-Nov-2014 15:08:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/upload.php:5) in /home/wasiwron/public_html/SoftwareEngineering/upload.php on line 52
+[29-Nov-2014 15:18:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/upload.php:5) in /home/wasiwron/public_html/SoftwareEngineering/upload.php on line 52
+[30-Nov-2014 02:02:25 UTC] PHP Parse error:  syntax error, unexpected 'Sorry' (T_STRING) in /home/wasiwron/public_html/SoftwareEngineering/upload.php on line 48
+[30-Nov-2014 07:31:40 UTC] PHP Parse error:  syntax error, unexpected '$currentShape' (T_VARIABLE) in /home/wasiwron/public_html/SoftwareEngineering/viewMap.php on line 39
+[30-Nov-2014 07:32:49 UTC] PHP Parse error:  syntax error, unexpected '$currentShape' (T_VARIABLE) in /home/wasiwron/public_html/SoftwareEngineering/viewMap.php on line 39
+[30-Nov-2014 07:37:16 UTC] PHP Parse error:  syntax error, unexpected '$currentShape' (T_VARIABLE) in /home/wasiwron/public_html/SoftwareEngineering/viewMap.php on line 39
+[30-Nov-2014 07:37:37 UTC] PHP Parse error:  syntax error, unexpected '$currentShape' (T_VARIABLE) in /home/wasiwron/public_html/SoftwareEngineering/viewMap.php on line 39
+[30-Nov-2014 07:38:09 UTC] PHP Parse error:  syntax error, unexpected '$currentShape' (T_VARIABLE) in /home/wasiwron/public_html/SoftwareEngineering/viewMap.php on line 39
+[30-Nov-2014 07:38:50 UTC] PHP Parse error:  syntax error, unexpected '$currentShapee' (T_VARIABLE) in /home/wasiwron/public_html/SoftwareEngineering/viewMap.php on line 39
+[02-Dec-2014 04:16:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 8
+[02-Dec-2014 04:16:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 10
+[02-Dec-2014 04:17:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/wasiwron/public_html/SoftwareEngineering/saveMapToDatabase.php on line 13
+[02-Dec-2014 18:02:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 8
+[02-Dec-2014 18:02:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 10
+[02-Dec-2014 18:02:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 8
+[02-Dec-2014 18:02:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 10
+[02-Dec-2014 18:04:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 8
+[02-Dec-2014 18:04:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 13
+[02-Dec-2014 18:04:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 8
+[02-Dec-2014 18:04:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/wasiwron/public_html/SoftwareEngineering/loginScript.php on line 13
+[02-Dec-2014 18:07:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wasiwron/public_html/SoftwareEngineering/adminPanel.php:9) in /home/wasiwron/public_html/SoftwareEngineering/adminPanel.php on line 10
+[02-Dec-2014 18:16:27 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/wasiwron/public_html/SoftwareEngineering/manageMaps.php on line 17
+[02-Dec-2014 18:16:47 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/wasiwron/public_html/SoftwareEngineering/manageMaps.php on line 20
+[04-Dec-2014 22:21:30 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/wasiwron/public_html/SoftwareEngineering/manageMaps.php on line 34
+[04-Dec-2014 22:25:25 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/wasiwron/public_html/SoftwareEngineering/manageMaps.php on line 34
+[04-Dec-2014 22:26:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/manageMaps.php on line 32
+[04-Dec-2014 22:29:30 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/manageMaps.php on line 32
+[04-Dec-2014 22:44:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 12
+[04-Dec-2014 22:44:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 13
+[04-Dec-2014 22:44:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 14
+[04-Dec-2014 22:44:13 UTC] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 18
+[04-Dec-2014 22:44:13 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 20
+[04-Dec-2014 22:44:13 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 21
+[04-Dec-2014 22:44:13 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 22
+[04-Dec-2014 22:44:13 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 23
+[04-Dec-2014 22:44:13 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 24
+[04-Dec-2014 22:44:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 12
+[04-Dec-2014 22:44:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 13
+[04-Dec-2014 22:44:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 14
+[04-Dec-2014 22:44:13 UTC] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 18
+[04-Dec-2014 22:44:13 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 20
+[04-Dec-2014 22:44:13 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 21
+[04-Dec-2014 22:44:13 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 22
+[04-Dec-2014 22:44:13 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 23
+[04-Dec-2014 22:44:13 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 24
+[04-Dec-2014 22:47:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 12
+[04-Dec-2014 22:47:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 13
+[04-Dec-2014 22:47:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 14
+[04-Dec-2014 22:47:46 UTC] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 18
+[04-Dec-2014 22:47:46 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 20
+[04-Dec-2014 22:47:46 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 21
+[04-Dec-2014 22:47:46 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 22
+[04-Dec-2014 22:47:46 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 23
+[04-Dec-2014 22:47:46 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 24
+[04-Dec-2014 22:47:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 12
+[04-Dec-2014 22:47:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 13
+[04-Dec-2014 22:47:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 14
+[04-Dec-2014 22:47:46 UTC] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 18
+[04-Dec-2014 22:47:46 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 20
+[04-Dec-2014 22:47:46 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 21
+[04-Dec-2014 22:47:46 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 22
+[04-Dec-2014 22:47:46 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 23
+[04-Dec-2014 22:47:46 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 24
+[04-Dec-2014 23:41:17 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 12
+[04-Dec-2014 23:41:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 13
+[04-Dec-2014 23:41:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 14
+[04-Dec-2014 23:41:17 UTC] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 18
+[04-Dec-2014 23:41:17 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 20
+[04-Dec-2014 23:41:17 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 21
+[04-Dec-2014 23:41:17 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 22
+[04-Dec-2014 23:41:17 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 23
+[04-Dec-2014 23:41:17 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 24
+[04-Dec-2014 23:41:17 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 12
+[04-Dec-2014 23:41:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 13
+[04-Dec-2014 23:41:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 14
+[04-Dec-2014 23:41:17 UTC] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 18
+[04-Dec-2014 23:41:17 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 20
+[04-Dec-2014 23:41:17 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 21
+[04-Dec-2014 23:41:17 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 22
+[04-Dec-2014 23:41:17 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 23
+[04-Dec-2014 23:41:17 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 24
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 12
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 13
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 14
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 18
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 20
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 21
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 22
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 23
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 24
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 12
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 13
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 14
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 18
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 20
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 21
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 22
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 23
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 24
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 12
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 13
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 14
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 18
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 20
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 21
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 22
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 23
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 24
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 12
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 13
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 14
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 18
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 20
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 21
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 22
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 23
+[04-Dec-2014 23:41:21 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 24
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 12
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 13
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 14
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 18
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 20
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 21
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 22
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 23
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 24
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 12
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 13
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 14
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 18
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 20
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 21
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 22
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 23
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 24
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 12
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 13
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 14
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 18
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 20
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 21
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 22
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 23
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 24
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 12
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 13
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 14
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 18
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 20
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 21
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 22
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 23
+[04-Dec-2014 23:41:22 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 24
+[04-Dec-2014 23:48:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 12
+[04-Dec-2014 23:48:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 13
+[04-Dec-2014 23:48:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 14
+[04-Dec-2014 23:48:10 UTC] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 18
+[04-Dec-2014 23:48:10 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 20
+[04-Dec-2014 23:48:10 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 21
+[04-Dec-2014 23:48:10 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 22
+[04-Dec-2014 23:48:10 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 23
+[04-Dec-2014 23:48:10 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 24
+[04-Dec-2014 23:48:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 12
+[04-Dec-2014 23:48:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 13
+[04-Dec-2014 23:48:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 14
+[04-Dec-2014 23:48:10 UTC] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 18
+[04-Dec-2014 23:48:10 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 20
+[04-Dec-2014 23:48:10 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 21
+[04-Dec-2014 23:48:10 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 22
+[04-Dec-2014 23:48:10 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 23
+[04-Dec-2014 23:48:10 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 24
+[04-Dec-2014 23:48:16 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 12
+[04-Dec-2014 23:48:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 13
+[04-Dec-2014 23:48:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 14
+[04-Dec-2014 23:48:16 UTC] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 18
+[04-Dec-2014 23:48:16 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 20
+[04-Dec-2014 23:48:16 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 21
+[04-Dec-2014 23:48:16 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 22
+[04-Dec-2014 23:48:16 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 23
+[04-Dec-2014 23:48:16 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 24
+[04-Dec-2014 23:48:16 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 12
+[04-Dec-2014 23:48:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 13
+[04-Dec-2014 23:48:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 14
+[04-Dec-2014 23:48:16 UTC] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 18
+[04-Dec-2014 23:48:16 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 20
+[04-Dec-2014 23:48:16 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 21
+[04-Dec-2014 23:48:16 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 22
+[04-Dec-2014 23:48:16 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 23
+[04-Dec-2014 23:48:16 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 24
+[05-Dec-2014 01:04:32 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 12
+[05-Dec-2014 01:04:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 13
+[05-Dec-2014 01:04:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 14
+[05-Dec-2014 01:04:32 UTC] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 18
+[05-Dec-2014 01:04:32 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 20
+[05-Dec-2014 01:04:32 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 21
+[05-Dec-2014 01:04:32 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 22
+[05-Dec-2014 01:04:32 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 23
+[05-Dec-2014 01:04:32 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 24
+[05-Dec-2014 01:04:32 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 12
+[05-Dec-2014 01:04:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 13
+[05-Dec-2014 01:04:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 14
+[05-Dec-2014 01:04:32 UTC] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 18
+[05-Dec-2014 01:04:32 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 20
+[05-Dec-2014 01:04:32 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 21
+[05-Dec-2014 01:04:32 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 22
+[05-Dec-2014 01:04:32 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 23
+[05-Dec-2014 01:04:32 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 24
+[05-Dec-2014 01:05:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 12
+[05-Dec-2014 01:05:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 13
+[05-Dec-2014 01:05:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 14
+[05-Dec-2014 01:05:05 UTC] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 18
+[05-Dec-2014 01:05:05 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 20
+[05-Dec-2014 01:05:05 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 21
+[05-Dec-2014 01:05:05 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 22
+[05-Dec-2014 01:05:05 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 23
+[05-Dec-2014 01:05:05 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 24
+[05-Dec-2014 01:05:05 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 12
+[05-Dec-2014 01:05:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 13
+[05-Dec-2014 01:05:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 14
+[05-Dec-2014 01:05:05 UTC] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 18
+[05-Dec-2014 01:05:05 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 20
+[05-Dec-2014 01:05:05 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 21
+[05-Dec-2014 01:05:05 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 22
+[05-Dec-2014 01:05:05 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 23
+[05-Dec-2014 01:05:05 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 24
+[05-Dec-2014 01:10:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 12
+[05-Dec-2014 01:10:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 13
+[05-Dec-2014 01:10:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 14
+[05-Dec-2014 01:10:22 UTC] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 18
+[05-Dec-2014 01:10:22 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 20
+[05-Dec-2014 01:10:22 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 21
+[05-Dec-2014 01:10:22 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 22
+[05-Dec-2014 01:10:22 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 23
+[05-Dec-2014 01:10:22 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 24
+[05-Dec-2014 01:10:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 12
+[05-Dec-2014 01:10:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 13
+[05-Dec-2014 01:10:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wasiwron/public_html/SoftwareEngineering/rszImage.php:3) in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 14
+[05-Dec-2014 01:10:22 UTC] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 18
+[05-Dec-2014 01:10:22 UTC] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 20
+[05-Dec-2014 01:10:22 UTC] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 21
+[05-Dec-2014 01:10:22 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 22
+[05-Dec-2014 01:10:22 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 23
+[05-Dec-2014 01:10:22 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/wasiwron/public_html/SoftwareEngineering/rszImage.php on line 24

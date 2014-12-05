@@ -1,52 +1,16 @@
 <!DOCTYPE HTML>
-<html lang="en" >
+<!--Author: Daniel Read, Jovaughn Chin-->
+<html>
 	<head>
-		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
-		<title>Manage Maps | Edit Maps</title>
-		<script type="text/javascript" src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
 		 <!--Import CSS Style Sheet-->
     	<link rel="stylesheet" type="text/css" href="./manageMaps.css">
-		<script type="text/javascript" src="js/jquery.opacityrollover.js"></script>
-
-		<script type="text/javascript">
-	      function makeList(){
-	         
-	        var wrap= document.getElementByClass('wrap');
-	      	wrap.style.width=100%;
-	      	wrap.style.height=100%;
-
-	      	var container= document.getElementByClass('container');
-	      	container.style.width= "40em";
-	      }
-
-	      function makeGrid(){
-	      	var wrap= document.getElementByClass('wrap');
-	      	wrap.style.width=33.33%;
-	      	wrap.style.height=33.33%;
-
-	      	var container= document.getElementByClass('container');
-	      	container.style.width= '80em';
-	      }
-  		</script>
-
 	</head>
-	<body>
 
 	<header >
 		<h1>Select A Map to Manage</h1>
 	</header>
-		<br style="clear:both"></br>
 
-		<div class='icons'>
-				<div class='icon' id='iconl' >
-					<img onclick= "makeList" src="./icon/list_bullets.png"  alt="">
-				</div>
-				<div class='icon' id='icong'>
-					<img onclick= "makeGrid" src="./icon/3x3_grid.png" alt="">
-				</div>
-		</div>
-			<!-- Start Advanced Gallery Html Containers -->
-			<div class="container">
+			<!-- Start Gallery Html Container -->
 				<?php
 					require "./db.php";
 		
@@ -58,33 +22,68 @@
 		 			or die("ERROR: " . mysqli_error($con));
 					if ($result):
 
-					    while ($row = mysql_fetch_array($result)):
-					        echo("<div class='wrap'>")
-					            echo("<div class='cd-timeline-block'>");
-					                echo("<div class='cd-timeline-img'>");
-					                    echo("<img src='rszImage.php?id=". $row['id'] . "&thumbnail=true' alt= Picture>");
-					                echo("</div> <!-- cd-timeline-img -->");
+					    while ($row = mysqli_fetch_assoc($result)):
+					        echo("<div class='wrap'>");
+					            echo("<div class='map-block'>");
+					                echo("<div class='map-img'>");
+					                    echo("<img src='". $row['image_url'] . "' style='width: 100; height:100' alt= Picture>");
+					                echo("</div>");  // <!-- map-img -->
 					         
-					                echo("<div class='cd-timeline-content'>");
+					                echo("<div class='map-content'>");
 					                echo ("<h2>" . $row['description']. " </h2>");
-					                    echo("<p> Last Update 9/10/14 </p>");
-					                    echo("<a href='./editMap.php?map_id=".$row['id']."' class='cd-edit'>Edit This Map</a>");
-					                echo("</div> <!-- cd-timeline-content -->");
-					            echo("</div> <!-- cd-timeline-block -->");
+					                    echo("<p> Date: </p>");
+					                    echo("<div class='buttons'>");
+					                    echo("<a href='./editMap.php?map_id=".$row['id']."' class='edit'>Edit This Map</a>");
+					                    echo("<a href='#' class='delete' id='map_id'>Delete</a>");
+										echo("<a target='_new' class= 'view' href='./viewMap.php?map_id=".$row['id']."'>View Map</a>");
+										echo("</div>");
+					                echo("</div>"); //<!-- map-content -->
+					            echo("</div> "); // <!-- map-block -->
 					        echo("</div>");
 					    endwhile;
 					endif;
-
 				?>
-			</div>
-	</body>
 </html>
 
 	<script>
 
-		$('.cd-edit').click(function(){
+		$('.edit').click(function(){
 			 $("#portal").load( $(this).attr('href') );
 			 return false;
 		})	
+
+		$(".delete").click(function(){
+			var map_id = $(this).attr("id");
+			var parent = $(this).parent();
+
+			$("<div style='background-color: white;'></div>").appendTo('body')
+		    .html('<div><h6>Are you sure you want to delete this map & all defined areas for it?</h6></div>')
+		    .dialog({
+		        modal: true,
+		        title: 'Delete message',
+		        zIndex: 10000,
+		        autoOpen: true,
+		        width: '500px',
+		        resizable: false,
+		        buttons: {
+		            Yes: function () {
+		                	parent.remove();
+			
+							$.post( "./deleteMap.php?map_id=" + map_id, function( data ) {
+				
+							});
+		                $(this).dialog("close");
+		            },
+		            No: function () {
+		                $(this).dialog("close");
+		            }
+		        },
+		        close: function (event, ui) {
+		            $(this).remove();
+		        }
+		    });
+			
+
+			});
 
 	</script>

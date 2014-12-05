@@ -1,3 +1,5 @@
+<!--Author: Jovaughn Chin-->
+
 <?php
 
 include "./db.php"; //Connect to database.
@@ -11,6 +13,7 @@ list($id, $content, $name, $type, $size) = mysql_fetch_array($result);
 header("Content-type: $type");
 header("Content-Disposition: attachment; filename= $name");
 
+//resize image to desired size
 function resize($contents, $desired_width, $desired_height) {
     $im = imagecreatefromstring($contents);
     $new = imagecreatetruecolor($desired_width, $desired_height);

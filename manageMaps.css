@@ -1,40 +1,52 @@
+<!--Author: Jovaughn Chin-->
+		
 
 		div {
 			overflow: hidden;
 		}
-		body {
-		  font-size: 100%;
-		  font-family: "Droid Serif", serif;
-		  color:#101010 ;
-		  background-color: #202020  ;
-		  text-align: center;
-		}
 
 		a {
+		  	margin-left: .2em;
+			opacity: 0.8;
+			padding: .5em 1em;
+			text-decoration: none;
+			font-family: "Open Sans", sans-serif;
+			font-size: .8125em;
+			background: #202020;
+			-webkit-border-radius: .25em;
+		    -moz-border-radius: .25em;
+		    border-radius: .25em;
+		    border: 2px solid black;
+		    text-shadow: 0 -2px 0 rgba(0, 0, 0, 0.4);
+		    -webkit-box-shadow: inset 0 2px 0 rgba(255, 255, 255, 0.4), 0 2px 2px rgba(0, 0, 0, 0.2);
+		    -moz-box-shadow: inset 0 2px 0 rgba(255, 255, 255, 0.4), 0 2px 2px rgba(0, 0, 0, 0.2);
+		    box-shadow: inset 0 2px 0 rgba(255, 255, 255, 0.4), 0 2px 2px rgba(0, 0, 0, 0.2);
+		    -webkit-user-select:none;
+		    -moz-user-select:none;
+		    -ms-user-select:none;
+		    user-select:none;
 
-		  opacity: 0.6;
-		  padding: .8em 1em;
-
-		  text-decoration: none;
-		  font-family: "Open Sans", sans-serif;
-		  margin-left: 25%;
-		  margin-right: 25%;
-		  font-size: .8125em;
-		  background: #202020;
-		  border-radius: 0.25em;
 		}
 
 		a:hover{
 			opacity: 1;
+
+		}
+
+		a:active {
+		    -webkit-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.6);
+		    -moz-box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.6);
+		    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.6);
+		    border: solid 2px #1669E6 ;
 		}
 
 		img {
 		  display: block;
 		}
 
-		header{
-			text-align: left;
-			color: #D8D8D8;
+
+		h2{
+			color: #202020
 		}
 
 		h1, h2 {
@@ -46,114 +58,85 @@
 			clear: both;
 		}
 
-		.icons{
-			float: right;
-			margin-right: 80px;
-			margin-bottom: 20px;
-			clear: both;
-		}
-
-
-		.icons .icon{
-			opacity: .7;
-			background: white;
-			padding: 5px;
-			border:5px  transparent;
-			border-radius: 0.5em;
-			display: inline-block;
-			float: left;
-			margin-left: 50px;
-		}
-
-		.icons .icon:hover{
-			opacity: 1;
-		}
-
-		.icon img{
-			width: 40px;
-			height: 40px;
+		
+		.buttons{
+			text-align: center;
 		}
 		.wrap{
-			
 			display: block;
-			text-align: left;
 			margin-bottom: 20px;
-			margin-left: 20%;
-			margin-right: 30%;
 			position: relative;
-		    float: left;
-		    width: 100%;
-		    height: 100%;
 		    overflow: auto;
 		}
 
 		.container{
-			background:rgba(255,255,255,0.5);
-			background:	#7f7f7f ; 
-			border: 5px transparent ;
-			border-radius: 0.25em;
-			padding: 20px;
-			margin: 0 auto;
-			width: 40em;
-			text-align: center;
-			overflow:hidden;
+			background:	white; 
+			padding: 20px 0 20px 0;
+			width: 28em;
+			margin:auto;
 			height: 100%;
+			overflow:hidden;
 		}
-		.cd-timeline-block {
-			margin: 2em 0;
+		.map-block {
+			margin: auto;
 			border-radius: 0.25em;
 			width: 400px;
 			height: 100px;
-			border: 5px solid #202020;
-			border-radius: 0.25em;
+			border: 3px solid #505050 ;
 		}
-		.cd-timeline-block:after {
+
+		.map-block:hover{
+			border-radius: 0.25em;
+			border: 3px solid #202020;
+		}
+		.map-block:after {
 		  content: "";
 		  display: table;
 		  clear: both;
 		}
-		.cd-timeline-block:first-child {
+		.map-block:first-child {
   			margin-top: 0;
   		}
-  		.cd-timeline-block:last-child {
+  		.map-block:last-child {
 		  margin-bottom: 0;
 		}
 		
-		.cd-timeline-content {
+		.map-content {
 		  float: left;
 		  display: block;
 		  width: 300px;
 		  height: 100px;
 		  background: white;
 		}
-		.cd-timeline-content h2 {
+		.map-content h2 {
 		  margin-left: 10px;
 		  margin-bottom: 2px;
 		  margin-top: 10px;
 		  color: #303e49;
 		}
-		.cd-timeline-content p, .cd-timeline-content .cd-edit, .cd-timeline-content {
+		.map-content p,.map-content .edit,.map-content .delete,.map-content .view, .map-content {
 		  font-size: 0.8125rem;
 		}
-		.cd-timeline-content .cd-edit, .cd-timeline-content {
+		.map-content .edit, .map-content .delete, .map-content .view, .map-content {
 		  display: inline-block;
 		}
-		.cd-timeline-content p {
+		.map-content p {
 		  margin-left: 10px;
 		  margin-top: 0;
-		  margin-bottom: 0;
+		  margin-bottom: 10px;
 		  line-height: 1.6;
 		}
-		.cd-timeline-content .cd-edit {
+
+		.map-content .edit,.map-content .delete, .map-content .view{
 		  color: #D8D8D8 ;
 		}
 	
-		.cd-timeline-img {
+		.map-img {
 		  float: left;
 		  width: 100px; 
 		  min-height: 100px;
 		}
-		.cd-timeline-img img {
+		.map-img img {
 		  top: 0;
 		  bottom: 0;
 		  width: 100px;

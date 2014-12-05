@@ -1,0 +1,65 @@
+*
+{
+    font-family: 'Open Sans', sans-serif;
+}
+.body
+{
+    
+    background-color: #333333;
+}
+.loginTitle
+{
+    color: white;
+    text-align: center;
+}
+.username
+{
+    margin-bottom: 10px;
+    width: 250px;
+}
+.password
+{
+    width: 250px;
+}
+.loginButton
+{
+    -moz-box-shadow:inset 0px 0px 0px 0px #276873;
+    -webkit-box-shadow:inset 0px 0px 0px 0px #276873;
+    box-shadow:inset 0px 0px 0px 0px #276873;
+    background-color:#1289b5;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:19px;
+    padding:7px 76px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #3d768a;
+    margin-top: 10px;
+    width: 250px;
+}
+.loginButton:hover
+{
+    background-color:#4caebd;
+}
+.loginButton:active
+{
+    position:relative;
+    top:1px;
+}
+input
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    box-sizing: border-box;
+}
+
+.buttonGroup
+{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -100px;
+}

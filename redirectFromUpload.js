@@ -1,0 +1,1 @@
+ window.location = "editMap.php"; //Go to editMap.php

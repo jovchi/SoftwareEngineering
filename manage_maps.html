@@ -1,399 +1,124 @@
-<!doctype html>
+<!DOCTYPE HTML>
+<!--Author: Jovaughn Chin-->
 <html lang="en">
 	<head>
 		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
-		<title>Manage Maps | Edit Maps</title>
+		<!--Import JQuery-->
 		<script type="text/javascript" src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
-		<script type="text/javascript" src="js/jquery.opacityrollover.js"></script>
 		 <!--Import CSS Style Sheet-->
     	<link rel="stylesheet" type="text/css" href="./manageMaps.css">
 
-		<script type="text/javascript">
-	      function makeList(){
-	         
-	        var wrap= document.getElementByClass('wrap');
-	      	wrap.style.width=100%;
-	      	wrap.style.height=100%;
-
-	      	var container= document.getElementByClass('container');
-	      	container.style.width= "40em";
-	      }
-
-	      function makeGrid(){
-	      	var wrap= document.getElementByClass('wrap');
-	      	wrap.style.width=33.33%;
-	      	wrap.style.height=33.33%;
-
-	      	var container= document.getElementByClass('container');
-	      	container.style.width= '80em';
-	      }
-  		</script>
-
 	</head>
-	<body>
 
-	<header >
 		<h2>Select A Map to Manage</h2>
-	</header>
 		<br class="clear"></br>
 
-			<div class='icons'>
-				<div class='icon' id='iconl' >
-					<img onclick= "makeList" src="./icon/list_bullets.png"  alt="">
-				</div>
-				<div class='icon' id='icong'>
-					<img onclick= "makeGrid" src="./icon/3x3_grid.png" alt="">
-				</div>
-			</div>
-
-			<br class="clear"></br>
-			<!-- Start Advanced Gallery Html Container -->
-			<div class="container">
+			<!-- Template -->
 				<div class="wrap">
-					<div class="cd-timeline-block">
-						<div class="cd-timeline-img">
+					<div class="map-block">
+						<div class="map-img">
 							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
-						</div> <!-- cd-timeline-img -->
+						</div> <!-- map-img -->
 				 
-						<div class="cd-timeline-content">
+						<div class="map-content">
 							<h2>Title </h2>
-							<p> Last Update 9/10/14 </p>
-							<a href="#0" class="cd-edit">Edit This Map</a>
-						</div> <!-- cd-timeline-content -->
-					</div> <!-- cd-timeline-block -->
+							<p> Date </p>
+							<div class='buttons'>
+							<a href="#0" class="edit">Edit This Map</a>
+							<a href='#' class='delete' id='map_id'>Delete</a>
+							<a target='_new' class= "view" href='#0'>View Map</a>
+							</div>
+						</div> <!-- map-content -->
+					</div> <!-- map-block -->
 				</div>
 
 				<div class="wrap">
-					<div class="cd-timeline-block">
-						<div class="cd-timeline-img">
+					<div class="map-block">
+						<div class="map-img">
 							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
-						</div> <!-- cd-timeline-img -->
+						</div> <!-- map-img -->
 				 
-						<div class="cd-timeline-content">
+						<div class="map-content">
 							<h2>Title </h2>
-							<p> Last Update 9/10/14 </p>
-							<a href="#0" class="cd-edit">Edit This Map</a>
-						</div> <!-- cd-timeline-content -->
-					</div> <!-- cd-timeline-block -->
+							<p> Date </p>
+							<div class='buttons'>
+							<a href="#0" class="edit">Edit This Map</a>
+							<a href='#' class='delete' id='map_id'>Delete</a>
+							<a target='_new' class= "view" href='#0'>View Map</a>
+							</div>
+						</div> <!-- map-content -->
+					</div> <!-- map-block -->
 				</div>
-				
-
 				<div class="wrap">
-					<div class="cd-timeline-block">
-						<div class="cd-timeline-img">
+					<div class="map-block">
+						<div class="map-img">
 							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
-						</div> <!-- cd-timeline-img -->
+						</div> <!-- map-img -->
 				 
-						<div class="cd-timeline-content">
+						<div class="map-content">
 							<h2>Title </h2>
-							<p> Last Update 9/10/14 </p>
-							<a href="#0" class="cd-edit">Edit This Map</a>
-						</div> <!-- cd-timeline-content -->
-					</div> <!-- cd-timeline-block -->
-				</div>	
-				
-
-				<div class="wrap">
-					<div class="cd-timeline-block">
-						<div class="cd-timeline-img">
-							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
-						</div> <!-- cd-timeline-img -->
-				 
-						<div class="cd-timeline-content">
-							<h2>Title </h2>
-							<p> Last Update 9/10/14 </p>
-							<a href="#0" class="cd-edit">Edit This Map</a>
-						</div> <!-- cd-timeline-content -->
-					</div> <!-- cd-timeline-block -->
+							<p> Date </p>
+							<div class='buttons'>
+							<a href="#0" class="edit">Edit This Map</a>
+							<a href='#' class='delete' id='map_id'>Delete</a>
+							<a target='_new' class= "view" href='#0'>View Map</a>
+							</div>
+						</div> <!-- map-content -->
+					</div> <!-- map-block -->
 				</div>
 
 				<div class="wrap">
-					<div class="cd-timeline-block">
-						<div class="cd-timeline-img">
+					<div class="map-block">
+						<div class="map-img">
 							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
-						</div> <!-- cd-timeline-img -->
+						</div> <!-- map-img -->
 				 
-						<div class="cd-timeline-content">
+						<div class="map-content">
 							<h2>Title </h2>
-							<p> Last Update 9/10/14 </p>
-							<a href="#0" class="cd-edit">Edit This Map</a>
-						</div> <!-- cd-timeline-content -->
-					</div> <!-- cd-timeline-block -->
+							<p> Date </p>
+							<div class='buttons'>
+							<a href="#0" class="edit">Edit This Map</a>
+							<a href='#' class='delete' id='map_id'>Delete</a>
+							<a target='_new' class= "view" href='#0'>View Map</a>
+							</div>
+						</div> <!-- map-content -->
+					</div> <!-- map-block -->
+				</div>
+				<div class="wrap">
+					<div class="map-block">
+						<div class="map-img">
+							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
+						</div> <!-- map-img -->
+				 
+						<div class="map-content">
+							<h2>Title </h2>
+							<p> Date </p>
+							<div class='buttons'>
+							<a href="#0" class="edit">Edit This Map</a>
+							<a href='#' class='delete' id='map_id'>Delete</a>
+							<a target='_new' class= "view" href='#0'>View Map</a>
+							</div>
+						</div> <!-- map-content -->
+					</div> <!-- map-block -->
 				</div>
 
 				<div class="wrap">
-					<div class="cd-timeline-block">
-						<div class="cd-timeline-img">
+					<div class="map-block">
+						<div class="map-img">
 							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
-						</div> <!-- cd-timeline-img -->
+						</div> <!-- map-img -->
 				 
-						<div class="cd-timeline-content">
+						<div class="map-content">
 							<h2>Title </h2>
-							<p> Last Update 9/10/14 </p>
-							<a href="#0" class="cd-edit">Edit This Map</a>
-						</div> <!-- cd-timeline-content -->
-					</div> <!-- cd-timeline-block -->
+							<p> Date </p>
+							<div class='buttons'>
+							<a href="#0" class="edit">Edit This Map</a>
+							<a href='#' class='delete' id='map_id'>Delete</a>
+							<a target='_new' class= "view" href='#0'>View Map</a>
+							</div>
+						</div> <!-- map-content -->
+					</div> <!-- map-block -->
 				</div>
-				
-				<div class="wrap">
-					<div class="cd-timeline-block">
-						<div class="cd-timeline-img">
-							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
-						</div> <!-- cd-timeline-img -->
-				 
-						<div class="cd-timeline-content">
-							<h2>Title </h2>
-							<p> Last Update 9/10/14 </p>
-							<a href="#0" class="cd-edit">Edit This Map</a>
-						</div> <!-- cd-timeline-content -->
-					</div> <!-- cd-timeline-block -->
-				</div>
-
-				<div class="wrap">
-					<div class="cd-timeline-block">
-						<div class="cd-timeline-img">
-							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
-						</div> <!-- cd-timeline-img -->
-				 
-						<div class="cd-timeline-content">
-							<h2>Title </h2>
-							<p> Last Update 9/10/14 </p>
-							<a href="#0" class="cd-edit">Edit This Map</a>
-						</div> <!-- cd-timeline-content -->
-					</div> <!-- cd-timeline-block -->
-				</div>
-				
-
-				<div class="wrap">
-					<div class="cd-timeline-block">
-						<div class="cd-timeline-img">
-							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
-						</div> <!-- cd-timeline-img -->
-				 
-						<div class="cd-timeline-content">
-							<h2>Title </h2>
-							<p> Last Update 9/10/14 </p>
-							<a href="#0" class="cd-edit">Edit This Map</a>
-						</div> <!-- cd-timeline-content -->
-					</div> <!-- cd-timeline-block -->
-				</div>	
-				
-
-				<div class="wrap">
-					<div class="cd-timeline-block">
-						<div class="cd-timeline-img">
-							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
-						</div> <!-- cd-timeline-img -->
-				 
-						<div class="cd-timeline-content">
-							<h2>Title </h2>
-							<p> Last Update 9/10/14 </p>
-							<a href="#0" class="cd-edit">Edit This Map</a>
-						</div> <!-- cd-timeline-content -->
-					</div> <!-- cd-timeline-block -->
-				</div>
-
-				<div class="wrap">
-					<div class="cd-timeline-block">
-						<div class="cd-timeline-img">
-							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
-						</div> <!-- cd-timeline-img -->
-				 
-						<div class="cd-timeline-content">
-							<h2>Title </h2>
-							<p> Last Update 9/10/14 </p>
-							<a href="#0" class="cd-edit">Edit This Map</a>
-						</div> <!-- cd-timeline-content -->
-					</div> <!-- cd-timeline-block -->
-				</div>
-
-				<div class="wrap">
-					<div class="cd-timeline-block">
-						<div class="cd-timeline-img">
-							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
-						</div> <!-- cd-timeline-img -->
-				 
-						<div class="cd-timeline-content">
-							<h2>Title </h2>
-							<p> Last Update 9/10/14 </p>
-							<a href="#0" class="cd-edit">Edit This Map</a>
-						</div> <!-- cd-timeline-content -->
-					</div> <!-- cd-timeline-block -->
-				</div>	
-
-								<div class="wrap">
-					<div class="cd-timeline-block">
-						<div class="cd-timeline-img">
-							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
-						</div> <!-- cd-timeline-img -->
-				 
-						<div class="cd-timeline-content">
-							<h2>Title </h2>
-							<p> Last Update 9/10/14 </p>
-							<a href="#0" class="cd-edit">Edit This Map</a>
-						</div> <!-- cd-timeline-content -->
-					</div> <!-- cd-timeline-block -->
-				</div>
-				
-
-				<div class="wrap">
-					<div class="cd-timeline-block">
-						<div class="cd-timeline-img">
-							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
-						</div> <!-- cd-timeline-img -->
-				 
-						<div class="cd-timeline-content">
-							<h2>Title </h2>
-							<p> Last Update 9/10/14 </p>
-							<a href="#0" class="cd-edit">Edit This Map</a>
-						</div> <!-- cd-timeline-content -->
-					</div> <!-- cd-timeline-block -->
-				</div>	
-				
-
-				<div class="wrap">
-					<div class="cd-timeline-block">
-						<div class="cd-timeline-img">
-							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
-						</div> <!-- cd-timeline-img -->
-				 
-						<div class="cd-timeline-content">
-							<h2>Title </h2>
-							<p> Last Update 9/10/14 </p>
-							<a href="#0" class="cd-edit">Edit This Map</a>
-						</div> <!-- cd-timeline-content -->
-					</div> <!-- cd-timeline-block -->
-				</div>
-
-				<div class="wrap">
-					<div class="cd-timeline-block">
-						<div class="cd-timeline-img">
-							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
-						</div> <!-- cd-timeline-img -->
-				 
-						<div class="cd-timeline-content">
-							<h2>Title </h2>
-							<p> Last Update 9/10/14 </p>
-							<a href="#0" class="cd-edit">Edit This Map</a>
-						</div> <!-- cd-timeline-content -->
-					</div> <!-- cd-timeline-block -->
-				</div>
-
-				<div class="wrap">
-					<div class="cd-timeline-block">
-						<div class="cd-timeline-img">
-							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
-						</div> <!-- cd-timeline-img -->
-				 
-						<div class="cd-timeline-content">
-							<h2>Title </h2>
-							<p> Last Update 9/10/14 </p>
-							<a href="#0" class="cd-edit">Edit This Map</a>
-						</div> <!-- cd-timeline-content -->
-					</div> <!-- cd-timeline-block -->
-				</div>	
-
-				<div class="wrap">
-					<div class="cd-timeline-block">
-						<div class="cd-timeline-img">
-							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
-						</div> <!-- cd-timeline-img -->
-				 
-						<div class="cd-timeline-content">
-							<h2>Title </h2>
-							<p> Last Update 9/10/14 </p>
-							<a href="#0" class="cd-edit">Edit This Map</a>
-						</div> <!-- cd-timeline-content -->
-					</div> <!-- cd-timeline-block -->
-				</div>
-
-				<div class="wrap">
-					<div class="cd-timeline-block">
-						<div class="cd-timeline-img">
-							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
-						</div> <!-- cd-timeline-img -->
-				 
-						<div class="cd-timeline-content">
-							<h2>Title </h2>
-							<p> Last Update 9/10/14 </p>
-							<a href="#0" class="cd-edit">Edit This Map</a>
-						</div> <!-- cd-timeline-content -->
-					</div> <!-- cd-timeline-block -->
-				</div>	
-
-								<div class="wrap">
-					<div class="cd-timeline-block">
-						<div class="cd-timeline-img">
-							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
-						</div> <!-- cd-timeline-img -->
-				 
-						<div class="cd-timeline-content">
-							<h2>Title </h2>
-							<p> Last Update 9/10/14 </p>
-							<a href="#0" class="cd-edit">Edit This Map</a>
-						</div> <!-- cd-timeline-content -->
-					</div> <!-- cd-timeline-block -->
-				</div>
-				
-
-				<div class="wrap">
-					<div class="cd-timeline-block">
-						<div class="cd-timeline-img">
-							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
-						</div> <!-- cd-timeline-img -->
-				 
-						<div class="cd-timeline-content">
-							<h2>Title </h2>
-							<p> Last Update 9/10/14 </p>
-							<a href="#0" class="cd-edit">Edit This Map</a>
-						</div> <!-- cd-timeline-content -->
-					</div> <!-- cd-timeline-block -->
-				</div>	
-				
-
-				<div class="wrap">
-					<div class="cd-timeline-block">
-						<div class="cd-timeline-img">
-							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
-						</div> <!-- cd-timeline-img -->
-				 
-						<div class="cd-timeline-content">
-							<h2>Title </h2>
-							<p> Last Update 9/10/14 </p>
-							<a href="#0" class="cd-edit">Edit This Map</a>
-						</div> <!-- cd-timeline-content -->
-					</div> <!-- cd-timeline-block -->
-				</div>
-
-				<div class="wrap">
-					<div class="cd-timeline-block">
-						<div class="cd-timeline-img">
-							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
-						</div> <!-- cd-timeline-img -->
-				 
-						<div class="cd-timeline-content">
-							<h2>Title </h2>
-							<p> Last Update 9/10/14 </p>
-							<a href="#0" class="cd-edit">Edit This Map</a>
-						</div> <!-- cd-timeline-content -->
-					</div> <!-- cd-timeline-block -->
-				</div>
-
-				<div class="wrap">
-					<div class="cd-timeline-block">
-						<div class="cd-timeline-img">
-							<img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Picture">
-						</div> <!-- cd-timeline-img -->
-				 
-						<div class="cd-timeline-content">
-							<h2>Title </h2>
-							<p> Last Update 9/10/14 </p>
-							<a href="#0" class="cd-edit">Edit This Map</a>
-						</div> <!-- cd-timeline-content -->
-					</div> <!-- cd-timeline-block -->
-				</div>		
-			</div>
-	</body>
 </html>
 
 
